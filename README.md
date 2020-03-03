@@ -25,7 +25,7 @@ MongoDB 3
 
 ## Getting Started
 
-This project is a Flutter application. Do you want to start Online Taxi Booking App Script?
+Do you want to start Online Taxi Booking App Script?
 
 Contact Us : https://www.abservetech.com/contact-us/
 
